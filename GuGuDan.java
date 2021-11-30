@@ -4,6 +4,7 @@ public class Hello{
 			System.out.println("3 * " + i +" = " 3*i);
 		}
 		System.out.println("git hub에서 수정한 내용");
+		System.out.println("git hub에서 수정한 내용2");
 	}
 }
 
